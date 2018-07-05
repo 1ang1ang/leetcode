@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31d925fb-b726-4e28-a1c2-e3ebce3a0a19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/NumberComplement.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseString.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseStringII.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseWordsInAString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/BaseballGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/DistributeCandies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/FizzBuzz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/IslandPerimeter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/KeyboardRow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReshapeMatrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/ToeplitzMatrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +23,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JewelAndStone.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/JewelAndStone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FlippingImage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/FlippingImage.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,81 +33,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayPartition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ArrayPartition.py">
+      <file leaf-file-name="LongestHarmoniousSubsequence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumbersOfLineToWriteString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/NumbersOfLineToWriteString.py">
+      <file leaf-file-name="BaseballGame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/BaseballGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubdomainVisitCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/SubdomainVisitCount.py">
+      <file leaf-file-name="IslandPerimeter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/IslandPerimeter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="19" selection-end-column="71" />
+            <state relative-caret-position="209">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberComplement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/NumberComplement.py">
+      <file leaf-file-name="TrimBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="26">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInAString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseWordsInAString.py">
+      <file leaf-file-name="DistributeCandies.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/DistributeCandies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseStringII.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseStringII.py">
+      <file leaf-file-name="ToeplitzMatrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ToeplitzMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="64">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseString.py">
+      <file leaf-file-name="FizzBuzz.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/FizzBuzz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="247">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseVowelsOfString.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py">
+      <file leaf-file-name="ReshapeMatrix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReshapeMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="247">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,6 +161,15 @@
         <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseStringII.py" />
         <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseString.py" />
         <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/KeyboardRow.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/BaseballGame.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/IslandPerimeter.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/DistributeCandies.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ToeplitzMatrix.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/FizzBuzz.py" />
+        <option value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReshapeMatrix.py" />
       </list>
     </option>
   </component>
@@ -184,8 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,8 +331,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ReverseVowelsOfString">
-    <configuration default="false" name="NumberComplement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FizzBuzz">
+    <configuration default="false" name="IslandPerimeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -331,13 +344,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/NumberComplement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/IslandPerimeter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseWordsInAString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TrimBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -349,13 +362,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseWordsInAString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseStringII" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="DistributeCandies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -367,13 +380,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseStringII.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/DistributeCandies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ToeplitzMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -385,13 +398,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ToeplitzMatrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseVowelsOfString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -403,7 +416,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/guoyang/leetcode/easy/FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,19 +487,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NumberComplement" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReverseWordsInAString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReverseStringII" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ReverseString" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ReverseVowelsOfString" />
+      <item index="0" class="java.lang.String" itemvalue="Python.IslandPerimeter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TrimBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DistributeCandies" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ToeplitzMatrix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FizzBuzz" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ReverseVowelsOfString" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ReverseString" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReverseStringII" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReverseWordsInAString" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NumberComplement" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FizzBuzz" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ToeplitzMatrix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DistributeCandies" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TrimBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.IslandPerimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -504,19 +517,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -542,8 +555,28 @@
           <line>17</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/guoyang/leetcode/easy/BaseballGame.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -570,10 +603,94 @@
         <watch expression="sList[vowIdx[~idx]]" />
         <watch expression="sList[vowIdx[~idx]]" />
         <watch expression="sList[vowIdx[idx]]" />
+        <watch expression="sorted(numVsCnt.items(), lambda d : d[1])" />
+        <watch expression="numVsCnt.items()" />
+        <watch expression="len(mark)" />
+        <watch expression="matrix[i + j][j]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/JewelAndStone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/FlippingImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/SubdomainVisitCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="19" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/NumberComplement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseWordsInAString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseStringII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/KeyboardRow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/JewelAndStone.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -633,7 +750,7 @@
     <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/NumberComplement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -670,6 +787,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/KeyboardRow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/LongestHarmoniousSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/BaseballGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/IslandPerimeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/TrimBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/DistributeCandies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ToeplitzMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/FlippingImage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -678,10 +867,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReverseVowelsOfString.py">
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/FizzBuzz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="247">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/guoyang/leetcode/easy/ReshapeMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
